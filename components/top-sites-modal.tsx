@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button"
 import { Star } from "lucide-react"
 import { bettingSites } from "@/lib/betting-sites-data"
 import Link from "next/link"
+import Image from "next/image"
 
 export function TopSitesModal() {
   const [isOpen, setIsOpen] = useState(false)
@@ -73,10 +74,12 @@ export function TopSitesModal() {
             </div>
 
             <div className="p-6 text-center bg-gray-50">
-              <img
+              <Image
                 src={topSite.logo || "/placeholder.svg"}
                 alt={topSite.name}
-                className="w-32 h-32 object-contain mx-auto mb-4"
+                width={128}
+                height={128}
+                className="w-48 h-32 object-contain mx-auto mb-4 bg-black p-4 rounded-lg border border-gray-200"
               />
               <h3 className="text-2xl font-bold text-gray-800 mb-2">{topSite.name}</h3>
 

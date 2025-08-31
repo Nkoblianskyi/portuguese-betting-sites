@@ -191,7 +191,7 @@
 /* Page background with Portuguese pattern */
 @layer base {
   .page-bg {
-    background-image: url("/portugal-bg.png");
+    background-image: url("/football-stadium-background.png");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
