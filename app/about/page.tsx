@@ -16,7 +16,7 @@ export default function AboutPage() {
 
             <div className="prose prose-lg max-w-none">
               <p className="text-gray-600 leading-relaxed mb-6">
-                Bem-vindos ao <strong>Sites Apostas Des Portivas Pt</strong>, o seu guia de confiança para
+                Bem-vindos ao <strong>Sites Apostas Desportivas Pt</strong>, o seu guia de confiança para
                 encontrar as melhores casas de apostas licenciadas em Portugal.
               </p>
 

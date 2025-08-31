@@ -16,7 +16,7 @@ export function Header() {
             <h1 className="text-sm font-bold leading-tight">
               <span className="text-portugal-green uppercase">Sites</span>{" "}
               <span className="text-portugal-red uppercase">Apostas Des</span>{" "}
-              <span className="text-portugal-yellow text-white uppercase">Portivas Pt</span>
+              <span className="text-portugal-yellow text-white uppercase">Desportivas Pt</span>
             </h1>
           </div>
         </Link>
