@@ -69,14 +69,6 @@ export default function PrivacyPolicyPage() {
                 <li>Opor-se ao processamento dos seus dados</li>
                 <li>Solicitar a portabilidade dos dados</li>
               </ul>
-
-              <div className="bg-portugal-green/10 p-6 rounded-lg">
-                <h3 className="text-xl font-bold text-portugal-green mb-3">Contacto</h3>
-                <p className="text-gray-600">
-                  Para exercer os seus direitos ou esclarecer dúvidas sobre esta política, contacte-nos através do nosso
-                  formulário de contacto.
-                </p>
-              </div>
             </div>
           </div>
         </div>
