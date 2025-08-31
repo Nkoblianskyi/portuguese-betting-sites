@@ -15,7 +15,7 @@ export function Header() {
           <div>
             <h1 className="text-sm font-bold leading-tight">
               <span className="text-portugal-green uppercase">Sites</span>{" "}
-              <span className="text-portugal-red uppercase">Apostas Des</span>{" "}
+              <span className="text-portugal-red uppercase">Apostas </span>{" "}
               <span className="text-portugal-yellow text-white uppercase">Desportivas Pt</span>
             </h1>
           </div>
@@ -31,7 +31,7 @@ export function Header() {
           <div>
             <h1 className="text-xl lg:text-2xl font-bold leading-tight">
               <span className="text-portugal-green uppercase">Sites</span>{" "}
-              <span className="text-portugal-red uppercase">Apostas Des</span>{" "}
+              <span className="text-portugal-red uppercase">Apostas </span>{" "}
               <span className="text-portugal-yellow text-white uppercase">Portivas Pt</span>
             </h1>
           </div>
